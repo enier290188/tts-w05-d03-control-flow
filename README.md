@@ -1,4 +1,4 @@
-# Control Flow Project
+# TTS: Week 05, Day 03. Control flow.
 
 The following instructions and exercises constitute the project for understanding and applying Java Control Flow statements.  There will be some instructions that involve classes and/or operation that have not been covered yet.  In those cases code will be provided for basic operations, but you are encouraged to use online resources to obtain further documentation and examples.  
 
